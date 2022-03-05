@@ -5,6 +5,15 @@
       {
         "appID": "br.com.bettaself",
         "paths": [
+          "/DetailPost/",
+          "/DetailPost/*",
+          "/DetailExperience/",
+          "/DetailExperience/*"
+        ]
+      },
+      {
+        "appID": "br.com.bettaself",
+        "paths": [
           "*"
         ]
       }
